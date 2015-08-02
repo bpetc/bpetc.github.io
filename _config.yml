@@ -1,0 +1,70 @@
+url: https://etc.github.io
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: /etc Technology Consulting
+email: bk@etctc.net
+description: "Quaility services delivered by competenet engineers with over 20+ years of combined experiance for reasonable prices"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: e11111
+  secondary: fec503  
+  secondary-dark: 333
+
+# Team names, titles and social links
+#people:
+#- name: 
+#  pic: 1
+#  position: Lead Designer
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: stack-overflow
+#      url: #
+#
+#- name: 
+#  pic: 2
+#  position: Lead Marketer
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: linkedin
+#      url: #
+#
+#- name: 
+#  pic: 3
+#  position: Lead Developer
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: 
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket 
+#    url: http://bitbucket.org/jekyll
+  - title: github
+    url: 
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 
+  - line: North Carolina
+
+# Build settings
+markdown: kramdown
+permalink: pretty
